@@ -1,10 +1,10 @@
 # dependencies
-/node_modules
-/.pnp
+node_modules
+.pnp
 .pnp.*
 
 # testing
-/coverage
+coverage
 
 # next.js
 /.next/
